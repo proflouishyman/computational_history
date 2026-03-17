@@ -22,8 +22,9 @@ Each post folder should use the same contract:
 
 ## Current posts
 
-- `posts/cheap-code/`
-- `posts/historians-stats/`
+- `posts/01-cheap-code/` (Post 1)
+- `posts/02-historians-stats/` (Post 2)
+- `posts/04-ai-as-intern/` (Post 4)
 
 ## Suggested linking pattern in posts
 
